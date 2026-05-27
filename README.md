@@ -1084,6 +1084,7 @@ _Related: [Games](#games)_
 - [Open-WebUI](https://openwebui.com) - User-friendly AI Interface, supports Ollama, OpenAI API. ([Source Code](https://github.com/open-webui/open-webui)) `BSD-3-Clause` `Docker/Python`
 - [TuxSEO](https://tuxseo.com/) `⚠` - Create automated blog content for your business, using AI. ([Source Code](https://github.com/rasulkireev/TuxSEO)) `MIT` `Python/Docker`
 - [Vane](https://github.com/ItzCrazyKns/Vane) - AI-powered search engine (alternative to Perplexity AI). `MIT` `Docker`
+- [WinkTerm](https://github.com/Cznorth/winkterm) - Self-hosted AI terminal where the agent shares your PTY session: in-terminal chat via `#`, AI writes commands to your input line for review, with SSH, file transfer, and an HTTP Agent API for external agents. ([Demo](https://github.com/Cznorth/winkterm#-demo), [Source Code](https://github.com/Cznorth/winkterm)) `MIT` `Docker/Python/Nodejs`
 
 
 ### Groupware
